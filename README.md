@@ -1,8 +1,10 @@
+## Previsão de inadimplência de clientes [Case Datarisk]
+
 #### Objetivo:  Realizar uma análise preditiva de inadimplência dos clientes para tomar decisões sobre liberação de empréstimos.
 
 
 #### Etapas de realização do trabalho:
-[passo_a_passo](./assets/fluxograma.png)
+<img src="/assets/fluxograma.png"/>
 
 
 #### Conclusão da análise:
